@@ -1,0 +1,57 @@
+[
+    {
+        "_id": 1,
+        "name": "Levi's",
+        "url": "http://www.levi.com"
+    },
+    {
+        "_id": 2,
+        "name": "Puma",
+        "url": "http://www.puma.com"
+    },
+    {
+        "_id": 3,
+        "name": "Salesforce",
+        "url": "http://www.salesforce.com"
+    },
+    {
+        "_id": 4,
+        "name": "Adidas",
+        "url": "http://www.adidas.com"
+    },
+    {
+        "_id": 5,
+        "name": "Nike",
+        "url": "http://www.nike.com"
+    },
+    {
+        "_id": 6,
+        "name": "Cotopaxi",
+        "url": "http://www.cotopaxi.com"
+    },
+    {
+        "_id": 7,
+        "name": "Netflix",
+        "url": "http://www.netflix.com"
+    },
+    {
+        "_id": 8,
+        "name": "Colgate",
+        "url": "http://www.colgate.com"
+    },
+    {
+        "_id": 9,
+        "name": "Valentino",
+        "url": "http://www.valentino.com"
+    },
+    {
+        "_id": 10,
+        "name": "Curology",
+        "url": "http://www.curology.com"
+    },
+    {
+        "_id": 11,
+        "name": "Purple",
+        "url": "http://www.purple.com"
+    }
+]
